@@ -2,7 +2,7 @@ body{ 	background: url('https://christophergutt.github.io/projeto/fundo.PNG');
 		font-family: copperplate, fantasy;
 		font-size: 20px;}
 
-#principal{ background-image: url(https://christophergutt.github.io/projeto/fundo2.PNG);
+#principal{ background-image: url('https://christophergutt.github.io/projeto/fundo2.PNG');
 			text-align: center;}
 
 #menu{  font-size: 30px;
